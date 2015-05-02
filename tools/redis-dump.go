@@ -4,7 +4,7 @@ import (
     "fmt"
     "io"
     "os"
-    "redis"
+    "github.com/hoisie/redis"
     "strconv"
 )
 
